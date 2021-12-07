@@ -1,6 +1,6 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=shinshoji01&theme=discord_old_blurple) 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=shinshoji01&theme=swift) 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinshoji01&theme=discord_old_blurple&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinshoji01&theme=swift&layout=compact)
 
 ## Repositories I would like to share
 

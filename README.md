@@ -2,6 +2,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinshoji01&theme=swift&layout=compact)
 
+<!---
 ## Repositories I would like to share
 
 ### [Style-Restricted_GAN](https://github.com/shinshoji01/Style-Restricted_GAN)
@@ -18,3 +19,4 @@ It contains the implementation of the website for text-to-speech synthesis.
 It contains 2D marker detection using convolutional layers and pooling layers.
 ### [split_bill](https://github.com/shinshoji01/split_bill)
 It contains the program to determine how to split bill with your friends.
+--->
